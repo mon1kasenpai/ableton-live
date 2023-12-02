@@ -30,7 +30,7 @@ brew install --cask ableton-live-theme-dracula
 
 ##### Windows
 
-1. Drop the `Dracula.ask` file into `C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes`.
+1. Drop the `Dracula.ask` file into `C:\ProgramData\Ableton\Live 11 Suite\Resources\Themes`.
 
 ##### Ableton
 
